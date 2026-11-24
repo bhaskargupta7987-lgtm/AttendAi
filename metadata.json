@@ -1,0 +1,6 @@
+{
+  "name": "AttendAI — Multimodal Attendance & Engagement Agent",
+  "description": "100% offline, privacy-preserving classroom intelligence platform with sustained-presence attendance tracking, multimodal engagement analytics, pedagogical decision support, and SHA-256 audit logging.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
